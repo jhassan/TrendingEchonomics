@@ -1,0 +1,1143 @@
+Array
+(
+    [info] => Array
+        (
+            [hits] => Array
+                (
+                    [value] => 9250
+                    [relation] => eq
+                )
+
+            [page] => 0
+            [facets] => Array
+                (
+                    [country] => Array
+                        (
+                        )
+
+                    [unit] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [key] => Percent
+                                    [doc_count] => 361
+                                )
+
+                            [1] => Array
+                                (
+                                    [key] => Persons
+                                    [doc_count] => 327
+                                )
+
+                            [2] => Array
+                                (
+                                    [key] => LCU
+                                    [doc_count] => 29
+                                )
+
+                            [3] => Array
+                                (
+                                    [key] => Year
+                                    [doc_count] => 20
+                                )
+
+                            [4] => Array
+                                (
+                                    [key] => Kilometer
+                                    [doc_count] => 5
+                                )
+
+                            [5] => Array
+                                (
+                                    [key] => Square
+                                    [doc_count] => 5
+                                )
+
+                            [6] => Array
+                                (
+                                    [key] => 100
+                                    [doc_count] => 4
+                                )
+
+                            [7] => Array
+                                (
+                                    [key] => People
+                                    [doc_count] => 4
+                                )
+
+                            [8] => Array
+                                (
+                                    [key] => Per
+                                    [doc_count] => 4
+                                )
+
+                            [9] => Array
+                                (
+                                    [key] => GPI
+                                    [doc_count] => 3
+                                )
+
+                            [10] => Array
+                                (
+                                    [key] => Ha
+                                    [doc_count] => 1
+                                )
+
+                        )
+
+                    [currency] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [key] => USD
+                                    [doc_count] => 8399
+                                )
+
+                        )
+
+                    [category] => Array
+                        (
+                        )
+
+                    [type] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [key] => Comtrade
+                                    [doc_count] => 8295
+                                )
+
+                            [1] => Array
+                                (
+                                    [key] => WB
+                                    [doc_count] => 955
+                                )
+
+                        )
+
+                    [group] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [key] => Education
+                                    [doc_count] => 369
+                                )
+
+                            [1] => Array
+                                (
+                                    [key] => AND
+                                    [doc_count] => 153
+                                )
+
+                            [2] => Array
+                                (
+                                    [key] => Economy
+                                    [doc_count] => 137
+                                )
+
+                            [3] => Array
+                                (
+                                    [key] => Growth
+                                    [doc_count] => 137
+                                )
+
+                            [4] => Array
+                                (
+                                    [key] => Labour
+                                    [doc_count] => 96
+                                )
+
+                            [5] => Array
+                                (
+                                    [key] => Health
+                                    [doc_count] => 80
+                                )
+
+                            [6] => Array
+                                (
+                                    [key] => Business
+                                    [doc_count] => 73
+                                )
+
+                            [7] => Array
+                                (
+                                    [key] => Money
+                                    [doc_count] => 60
+                                )
+
+                            [8] => Array
+                                (
+                                    [key] => Government
+                                    [doc_count] => 55
+                                )
+
+                            [9] => Array
+                                (
+                                    [key] => Aid
+                                    [doc_count] => 21
+                                )
+
+                            [10] => Array
+                                (
+                                    [key] => Energy
+                                    [doc_count] => 16
+                                )
+
+                            [11] => Array
+                                (
+                                    [key] => Mining
+                                    [doc_count] => 16
+                                )
+
+                            [12] => Array
+                                (
+                                    [key] => Agriculture
+                                    [doc_count] => 15
+                                )
+
+                            [13] => Array
+                                (
+                                    [key] => Infrastructure
+                                    [doc_count] => 14
+                                )
+
+                            [14] => Array
+                                (
+                                    [key] => Climate
+                                    [doc_count] => 7
+                                )
+
+                            [15] => Array
+                                (
+                                    [key] => Development
+                                    [doc_count] => 3
+                                )
+
+                        )
+
+                    [frequency] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [key] => Annual
+                                    [doc_count] => 9231
+                                )
+
+                            [1] => Array
+                                (
+                                    [key] => Quarterly
+                                    [doc_count] => 19
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [hits] => Array
+        (
+            [0] => Array
+                (
+                    [country] => Aruba
+                    [category] => Imports
+                    [currency] => USD
+                    [iids] => te:comtrade:aruba.excount.ctglobal
+                    [esID] => te:comtrade:aruba.excount.ctglobal
+                    [s] => aruba.excount.ctglobal
+                    [importance] => 50
+                    [name] => Aruba Exports by Country
+                    [type] => comtrade
+                    [group] => 
+                    [frequency] => Annual
+                    [unit] => 
+                    [pretty_name] => Aruba Exports by Country
+                    [url] => /aruba/exports-by-country
+                )
+
+            [1] => Array
+                (
+                    [country] => Aruba
+                    [category] => Imports
+                    [currency] => USD
+                    [iids] => te:comtrade:aruba.imcat.ctglobal
+                    [esID] => te:comtrade:aruba.imcat.ctglobal
+                    [s] => aruba.imcat.ctglobal
+                    [importance] => 50
+                    [name] => Aruba Imports by Category
+                    [type] => comtrade
+                    [group] => 
+                    [frequency] => Annual
+                    [unit] => 
+                    [pretty_name] => Aruba Imports by Category
+                    [url] => /aruba/imports-by-category
+                )
+
+            [2] => Array
+                (
+                    [country] => Aruba
+                    [category] => Imports
+                    [currency] => USD
+                    [iids] => te:comtrade:aruba.excat.ctglobal
+                    [esID] => te:comtrade:aruba.excat.ctglobal
+                    [s] => aruba.excat.ctglobal
+                    [importance] => 50
+                    [name] => Aruba Exports by Category
+                    [type] => comtrade
+                    [group] => 
+                    [frequency] => Annual
+                    [unit] => 
+                    [pretty_name] => Aruba Exports by Category
+                    [url] => /aruba/exports-by-category
+                )
+
+            [3] => Array
+                (
+                    [country] => Aruba
+                    [category] => Imports
+                    [currency] => USD
+                    [iids] => te:comtrade:aruba.imcount.ctglobal
+                    [esID] => te:comtrade:aruba.imcount.ctglobal
+                    [s] => aruba.imcount.ctglobal
+                    [importance] => 50
+                    [name] => Aruba Imports by Country
+                    [type] => comtrade
+                    [group] => 
+                    [frequency] => Annual
+                    [unit] => 
+                    [pretty_name] => Aruba Imports by Country
+                    [url] => /aruba/imports-by-country
+                )
+
+            [4] => Array
+                (
+                    [country] => 
+                    [category] => Exports
+                    [currency] => USD
+                    [iids] => te:comtrade:usaabw00002
+                    [esID] => te:comtrade:usaabw00002
+                    [s] => usaabw00002:comtrade
+                    [importance] => 41
+                    [name] => United States exports to Aruba
+                    [type] => comtrade
+                    [group] => 
+                    [frequency] => Annual
+                    [unit] => 
+                    [pretty_name] => United States exports to Aruba
+                    [url] => /united-states/exports/aruba
+                )
+
+            [5] => Array
+                (
+                    [country] => 
+                    [category] => Imports
+                    [currency] => USD
+                    [iids] => te:comtrade:usaabw00001
+                    [esID] => te:comtrade:usaabw00001
+                    [s] => usaabw00001:comtrade
+                    [importance] => 41
+                    [name] => United States imports from Aruba
+                    [type] => comtrade
+                    [group] => 
+                    [frequency] => Annual
+                    [unit] => 
+                    [pretty_name] => United States imports from Aruba
+                    [url] => /united-states/imports/aruba
+                )
+
+            [6] => Array
+                (
+                    [country] => 
+                    [category] => Imports
+                    [currency] => USD
+                    [iids] => te:comtrade:eu2abw00001
+                    [esID] => te:comtrade:eu2abw00001
+                    [s] => eu2abw00001:comtrade
+                    [importance] => 35
+                    [name] => European Union imports from Aruba
+                    [type] => comtrade
+                    [group] => 
+                    [frequency] => Annual
+                    [unit] => 
+                    [pretty_name] => European Union imports from Aruba
+                    [url] => /european-union/imports/aruba
+                )
+
+            [7] => Array
+                (
+                    [country] => 
+                    [category] => Exports
+                    [currency] => USD
+                    [iids] => te:comtrade:eu2abw00002
+                    [esID] => te:comtrade:eu2abw00002
+                    [s] => eu2abw00002:comtrade
+                    [importance] => 35
+                    [name] => European Union exports to Aruba
+                    [type] => comtrade
+                    [group] => 
+                    [frequency] => Annual
+                    [unit] => 
+                    [pretty_name] => European Union exports to Aruba
+                    [url] => /european-union/exports/aruba
+                )
+
+            [8] => Array
+                (
+                    [country] => 
+                    [category] => Imports
+                    [currency] => USD
+                    [iids] => te:comtrade:chnabw00001
+                    [esID] => te:comtrade:chnabw00001
+                    [s] => chnabw00001:comtrade
+                    [importance] => 34
+                    [name] => China imports from Aruba
+                    [type] => comtrade
+                    [group] => 
+                    [frequency] => Annual
+                    [unit] => 
+                    [pretty_name] => China imports from Aruba
+                    [url] => /china/imports/aruba
+                )
+
+            [9] => Array
+                (
+                    [country] => 
+                    [category] => Exports
+                    [currency] => USD
+                    [iids] => te:comtrade:chnabw00002
+                    [esID] => te:comtrade:chnabw00002
+                    [s] => chnabw00002:comtrade
+                    [importance] => 34
+                    [name] => China exports to Aruba
+                    [type] => comtrade
+                    [group] => 
+                    [frequency] => Annual
+                    [unit] => 
+                    [pretty_name] => China exports to Aruba
+                    [url] => /china/exports/aruba
+                )
+
+            [10] => Array
+                (
+                    [country] => 
+                    [category] => Exports
+                    [currency] => USD
+                    [iids] => te:comtrade:usaabwxx022
+                    [esID] => te:comtrade:usaabwxx022
+                    [s] => usaabwxx022:comtrade
+                    [importance] => 26
+                    [name] => United States exports of meat and edible meat offal to Aruba
+                    [type] => comtrade
+                    [group] => 
+                    [frequency] => Annual
+                    [unit] => 
+                    [pretty_name] => United States exports of meat and edible meat offal to Aruba
+                    [url] => /united-states/exports/aruba/meat-edible-meat-offal
+                )
+
+            [11] => Array
+                (
+                    [country] => 
+                    [category] => Exports
+                    [currency] => USD
+                    [iids] => te:comtrade:usaabwxx092
+                    [esID] => te:comtrade:usaabwxx092
+                    [s] => usaabwxx092:comtrade
+                    [importance] => 26
+                    [name] => United States exports of coffee, tea, mate and spices to Aruba
+                    [type] => comtrade
+                    [group] => 
+                    [frequency] => Annual
+                    [unit] => 
+                    [pretty_name] => United States exports of coffee, tea, mate and spices to Aruba
+                    [url] => /united-states/exports/aruba/coffee-tea-mate-spices
+                )
+
+            [12] => Array
+                (
+                    [country] => 
+                    [category] => Exports
+                    [currency] => USD
+                    [iids] => te:comtrade:usaabwxx122
+                    [esID] => te:comtrade:usaabwxx122
+                    [s] => usaabwxx122:comtrade
+                    [importance] => 26
+                    [name] => United States exports of oil seed, oleagic fruits, grain, seed, fruits to Aruba
+                    [type] => comtrade
+                    [group] => 
+                    [frequency] => Annual
+                    [unit] => 
+                    [pretty_name] => United States exports of oil seed, oleagic fruits, grain, seed, fruits to Aruba
+                    [url] => /united-states/exports/aruba/oil-seed-oleagic-fruits-grain-seed-fruit
+                )
+
+            [13] => Array
+                (
+                    [country] => 
+                    [category] => Imports
+                    [currency] => USD
+                    [iids] => te:comtrade:usaabwxx151
+                    [esID] => te:comtrade:usaabwxx151
+                    [s] => usaabwxx151:comtrade
+                    [importance] => 26
+                    [name] => United States Imports from Aruba of Animal, vegetable fats and oils, cleavage products
+                    [type] => comtrade
+                    [group] => 
+                    [frequency] => Annual
+                    [unit] => 
+                    [pretty_name] => United States Imports from Aruba of Animal, vegetable fats and oils, cleavage products
+                    [url] => /united-states/imports/aruba/animal-vegetable-fats-oils-cleavage-products
+                )
+
+            [14] => Array
+                (
+                    [country] => 
+                    [category] => Exports
+                    [currency] => USD
+                    [iids] => te:comtrade:usaabwxx152
+                    [esID] => te:comtrade:usaabwxx152
+                    [s] => usaabwxx152:comtrade
+                    [importance] => 26
+                    [name] => United States exports of animal, vegetable fats and oils, cleavage products to Aruba
+                    [type] => comtrade
+                    [group] => 
+                    [frequency] => Annual
+                    [unit] => 
+                    [pretty_name] => United States exports of animal, vegetable fats and oils, cleavage products to Aruba
+                    [url] => /united-states/exports/aruba/animal-vegetable-fats-oils-cleavage-products
+                )
+
+            [15] => Array
+                (
+                    [country] => 
+                    [category] => Imports
+                    [currency] => USD
+                    [iids] => te:comtrade:usaabwxx161
+                    [esID] => te:comtrade:usaabwxx161
+                    [s] => usaabwxx161:comtrade
+                    [importance] => 26
+                    [name] => United States imports of meat, fish and seafood preparations from Aruba
+                    [type] => comtrade
+                    [group] => 
+                    [frequency] => Annual
+                    [unit] => 
+                    [pretty_name] => United States imports of meat, fish and seafood preparations from Aruba
+                    [url] => /united-states/imports/aruba/meat-fish-seafood-preparations
+                )
+
+            [16] => Array
+                (
+                    [country] => 
+                    [category] => Exports
+                    [currency] => USD
+                    [iids] => te:comtrade:usaabwxx172
+                    [esID] => te:comtrade:usaabwxx172
+                    [s] => usaabwxx172:comtrade
+                    [importance] => 26
+                    [name] => United States exports of sugars and sugar confectionery to Aruba
+                    [type] => comtrade
+                    [group] => 
+                    [frequency] => Annual
+                    [unit] => 
+                    [pretty_name] => United States exports of sugars and sugar confectionery to Aruba
+                    [url] => /united-states/exports/aruba/sugars-sugar-confectionery
+                )
+
+            [17] => Array
+                (
+                    [country] => 
+                    [category] => Imports
+                    [currency] => USD
+                    [iids] => te:comtrade:usaabwxx221
+                    [esID] => te:comtrade:usaabwxx221
+                    [s] => usaabwxx221:comtrade
+                    [importance] => 26
+                    [name] => United States Imports from Aruba of Beverages, spirits and vinegar
+                    [type] => comtrade
+                    [group] => 
+                    [frequency] => Annual
+                    [unit] => 
+                    [pretty_name] => United States Imports from Aruba of Beverages, spirits and vinegar
+                    [url] => /united-states/imports/aruba/beverages-spirits-vinegar
+                )
+
+            [18] => Array
+                (
+                    [country] => 
+                    [category] => Imports
+                    [currency] => USD
+                    [iids] => te:comtrade:usaabwxx241
+                    [esID] => te:comtrade:usaabwxx241
+                    [s] => usaabwxx241:comtrade
+                    [importance] => 26
+                    [name] => United States Imports from Aruba of Tobacco and manufactures tobacco substitutes
+                    [type] => comtrade
+                    [group] => 
+                    [frequency] => Annual
+                    [unit] => 
+                    [pretty_name] => United States Imports from Aruba of Tobacco and manufactures tobacco substitutes
+                    [url] => /united-states/imports/aruba/tobacco-manufactures-tobacco-substitutes
+                )
+
+            [19] => Array
+                (
+                    [country] => 
+                    [category] => Imports
+                    [currency] => USD
+                    [iids] => te:comtrade:usaabwxx251
+                    [esID] => te:comtrade:usaabwxx251
+                    [s] => usaabwxx251:comtrade
+                    [importance] => 26
+                    [name] => United States Imports from Aruba of Salt, sulphur, earth, stone, plaster, lime and cement
+                    [type] => comtrade
+                    [group] => 
+                    [frequency] => Annual
+                    [unit] => 
+                    [pretty_name] => United States Imports from Aruba of Salt, sulphur, earth, stone, plaster, lime and cement
+                    [url] => /united-states/imports/aruba/salt-sulfur-earth-stone-plaster-lime-cement
+                )
+
+            [20] => Array
+                (
+                    [country] => 
+                    [category] => Exports
+                    [currency] => USD
+                    [iids] => te:comtrade:usaabwxx302
+                    [esID] => te:comtrade:usaabwxx302
+                    [s] => usaabwxx302:comtrade
+                    [importance] => 26
+                    [name] => United States exports of pharmaceutical products to Aruba
+                    [type] => comtrade
+                    [group] => 
+                    [frequency] => Annual
+                    [unit] => 
+                    [pretty_name] => United States exports of pharmaceutical products to Aruba
+                    [url] => /united-states/exports/aruba/pharmaceutical-products
+                )
+
+            [21] => Array
+                (
+                    [country] => 
+                    [category] => Exports
+                    [currency] => USD
+                    [iids] => te:comtrade:usaabwxx332
+                    [esID] => te:comtrade:usaabwxx332
+                    [s] => usaabwxx332:comtrade
+                    [importance] => 26
+                    [name] => United States exports of essential oils, perfumes, cosmetics, toileteries to Aruba
+                    [type] => comtrade
+                    [group] => 
+                    [frequency] => Annual
+                    [unit] => 
+                    [pretty_name] => United States exports of essential oils, perfumes, cosmetics, toileteries to Aruba
+                    [url] => /united-states/exports/aruba/essential-oils-perfumes-cosmetics-toileteries
+                )
+
+            [22] => Array
+                (
+                    [country] => 
+                    [category] => Imports
+                    [currency] => USD
+                    [iids] => te:comtrade:usaabwxx341
+                    [esID] => te:comtrade:usaabwxx341
+                    [s] => usaabwxx341:comtrade
+                    [importance] => 26
+                    [name] => United States Imports from Aruba of Soaps, lubricants, waxes, candles, modelling pastes
+                    [type] => comtrade
+                    [group] => 
+                    [frequency] => Annual
+                    [unit] => 
+                    [pretty_name] => United States Imports from Aruba of Soaps, lubricants, waxes, candles, modelling pastes
+                    [url] => /united-states/imports/aruba/soaps-lubricants-waxes-candles-modelling-pastes
+                )
+
+            [23] => Array
+                (
+                    [country] => 
+                    [category] => Exports
+                    [currency] => USD
+                    [iids] => te:comtrade:usaabwxx362
+                    [esID] => te:comtrade:usaabwxx362
+                    [s] => usaabwxx362:comtrade
+                    [importance] => 26
+                    [name] => United States exports of explosives, pyrotechnics, matches, pyrophorics to Aruba
+                    [type] => comtrade
+                    [group] => 
+                    [frequency] => Annual
+                    [unit] => 
+                    [pretty_name] => United States exports of explosives, pyrotechnics, matches, pyrophorics to Aruba
+                    [url] => /united-states/exports/aruba/explosives-pyrotechnics-matches-pyrophorics
+                )
+
+            [24] => Array
+                (
+                    [country] => 
+                    [category] => Exports
+                    [currency] => USD
+                    [iids] => te:comtrade:usaabwxx402
+                    [esID] => te:comtrade:usaabwxx402
+                    [s] => usaabwxx402:comtrade
+                    [importance] => 26
+                    [name] => United States exports of rubbers to Aruba
+                    [type] => comtrade
+                    [group] => 
+                    [frequency] => Annual
+                    [unit] => 
+                    [pretty_name] => United States exports of rubbers to Aruba
+                    [url] => /united-states/exports/aruba/rubbers
+                )
+
+            [25] => Array
+                (
+                    [country] => 
+                    [category] => Exports
+                    [currency] => USD
+                    [iids] => te:comtrade:usaabwxx452
+                    [esID] => te:comtrade:usaabwxx452
+                    [s] => usaabwxx452:comtrade
+                    [importance] => 26
+                    [name] => United States exports of cork and articles of cork to Aruba
+                    [type] => comtrade
+                    [group] => 
+                    [frequency] => Annual
+                    [unit] => 
+                    [pretty_name] => United States exports of cork and articles of cork to Aruba
+                    [url] => /united-states/exports/aruba/cork-articles-cork
+                )
+
+            [26] => Array
+                (
+                    [country] => 
+                    [category] => Imports
+                    [currency] => USD
+                    [iids] => te:comtrade:usaabwxx471
+                    [esID] => te:comtrade:usaabwxx471
+                    [s] => usaabwxx471:comtrade
+                    [importance] => 26
+                    [name] => United States Imports from Aruba of Pulp of wood, fibrous cellulosic material, waste
+                    [type] => comtrade
+                    [group] => 
+                    [frequency] => Annual
+                    [unit] => 
+                    [pretty_name] => United States Imports from Aruba of Pulp of wood, fibrous cellulosic material, waste
+                    [url] => /united-states/imports/aruba/pulp-wood-fibrous-cellulosic-material-waste
+                )
+
+            [27] => Array
+                (
+                    [country] => 
+                    [category] => Imports
+                    [currency] => USD
+                    [iids] => te:comtrade:usaabwxx481
+                    [esID] => te:comtrade:usaabwxx481
+                    [s] => usaabwxx481:comtrade
+                    [importance] => 26
+                    [name] => United States Imports from Aruba of Paper and paperboard, articles of pulp, paper and board
+                    [type] => comtrade
+                    [group] => 
+                    [frequency] => Annual
+                    [unit] => 
+                    [pretty_name] => United States Imports from Aruba of Paper and paperboard, articles of pulp, paper and board
+                    [url] => /united-states/imports/aruba/paper-paperboard-articles-pulp-paper-board
+                )
+
+            [28] => Array
+                (
+                    [country] => 
+                    [category] => Exports
+                    [currency] => USD
+                    [iids] => te:comtrade:usaabwxx512
+                    [esID] => te:comtrade:usaabwxx512
+                    [s] => usaabwxx512:comtrade
+                    [importance] => 26
+                    [name] => United States exports of wool, animal hair, horsehair yarn and fabric to Aruba
+                    [type] => comtrade
+                    [group] => 
+                    [frequency] => Annual
+                    [unit] => 
+                    [pretty_name] => United States exports of wool, animal hair, horsehair yarn and fabric to Aruba
+                    [url] => /united-states/exports/aruba/wool-animal-hair-horsehair-yarn
+                )
+
+            [29] => Array
+                (
+                    [country] => 
+                    [category] => Exports
+                    [currency] => USD
+                    [iids] => te:comtrade:usaabwxx542
+                    [esID] => te:comtrade:usaabwxx542
+                    [s] => usaabwxx542:comtrade
+                    [importance] => 26
+                    [name] => United States exports of manmade filaments to Aruba
+                    [type] => comtrade
+                    [group] => 
+                    [frequency] => Annual
+                    [unit] => 
+                    [pretty_name] => United States exports of manmade filaments to Aruba
+                    [url] => /united-states/exports/aruba/manmade-filaments
+                )
+
+            [30] => Array
+                (
+                    [country] => 
+                    [category] => Exports
+                    [currency] => USD
+                    [iids] => te:comtrade:usaabwxx602
+                    [esID] => te:comtrade:usaabwxx602
+                    [s] => usaabwxx602:comtrade
+                    [importance] => 26
+                    [name] => United States exports of knitted or crocheted fabric to Aruba
+                    [type] => comtrade
+                    [group] => 
+                    [frequency] => Annual
+                    [unit] => 
+                    [pretty_name] => United States exports of knitted or crocheted fabric to Aruba
+                    [url] => /united-states/exports/aruba/knitted-crocheted-fabric
+                )
+
+            [31] => Array
+                (
+                    [country] => 
+                    [category] => Exports
+                    [currency] => USD
+                    [iids] => te:comtrade:usaabwxx632
+                    [esID] => te:comtrade:usaabwxx632
+                    [s] => usaabwxx632:comtrade
+                    [importance] => 26
+                    [name] => United States exports of other made textile articles, sets, worn clothing to Aruba
+                    [type] => comtrade
+                    [group] => 
+                    [frequency] => Annual
+                    [unit] => 
+                    [pretty_name] => United States exports of other made textile articles, sets, worn clothing to Aruba
+                    [url] => /united-states/exports/aruba/other-made-textile-articles-sets-worn-clothing
+                )
+
+            [32] => Array
+                (
+                    [country] => 
+                    [category] => Exports
+                    [currency] => USD
+                    [iids] => te:comtrade:usaabwxx642
+                    [esID] => te:comtrade:usaabwxx642
+                    [s] => usaabwxx642:comtrade
+                    [importance] => 26
+                    [name] => United States exports of footwear, gaiters and the like, to Aruba
+                    [type] => comtrade
+                    [group] => 
+                    [frequency] => Annual
+                    [unit] => 
+                    [pretty_name] => United States exports of footwear, gaiters and the like, to Aruba
+                    [url] => /united-states/exports/aruba/footwear-gaiters-like
+                )
+
+            [33] => Array
+                (
+                    [country] => 
+                    [category] => Exports
+                    [currency] => USD
+                    [iids] => te:comtrade:usaabwxx682
+                    [esID] => te:comtrade:usaabwxx682
+                    [s] => usaabwxx682:comtrade
+                    [importance] => 26
+                    [name] => United States exports of stone, plaster, cement, asbestos, mica or similar materials to Aruba
+                    [type] => comtrade
+                    [group] => 
+                    [frequency] => Annual
+                    [unit] => 
+                    [pretty_name] => United States exports of stone, plaster, cement, asbestos, mica or similar materials to Aruba
+                    [url] => /united-states/exports/aruba/stone-plaster-cement-asbestos-mica-materials
+                )
+
+            [34] => Array
+                (
+                    [country] => 
+                    [category] => Imports
+                    [currency] => USD
+                    [iids] => te:comtrade:usaabwxx701
+                    [esID] => te:comtrade:usaabwxx701
+                    [s] => usaabwxx701:comtrade
+                    [importance] => 26
+                    [name] => United States Imports from Aruba of Glass and glassware
+                    [type] => comtrade
+                    [group] => 
+                    [frequency] => Annual
+                    [unit] => 
+                    [pretty_name] => United States Imports from Aruba of Glass and glassware
+                    [url] => /united-states/imports/aruba/glass-glassware
+                )
+
+            [35] => Array
+                (
+                    [country] => 
+                    [category] => Exports
+                    [currency] => USD
+                    [iids] => te:comtrade:usaabwxx712
+                    [esID] => te:comtrade:usaabwxx712
+                    [s] => usaabwxx712:comtrade
+                    [importance] => 26
+                    [name] => United States exports of pearls, precious stones, metals, coins to Aruba
+                    [type] => comtrade
+                    [group] => 
+                    [frequency] => Annual
+                    [unit] => 
+                    [pretty_name] => United States exports of pearls, precious stones, metals, coins to Aruba
+                    [url] => /united-states/exports/aruba/pearls-precious-stones-metals-coins
+                )
+
+            [36] => Array
+                (
+                    [country] => 
+                    [category] => Imports
+                    [currency] => USD
+                    [iids] => te:comtrade:usaabwxx791
+                    [esID] => te:comtrade:usaabwxx791
+                    [s] => usaabwxx791:comtrade
+                    [importance] => 26
+                    [name] => United States Imports from Aruba of Zinc
+                    [type] => comtrade
+                    [group] => 
+                    [frequency] => Annual
+                    [unit] => 
+                    [pretty_name] => United States Imports from Aruba of Zinc
+                    [url] => /united-states/imports/aruba/zinc
+                )
+
+            [37] => Array
+                (
+                    [country] => 
+                    [category] => Imports
+                    [currency] => USD
+                    [iids] => te:comtrade:usaabwxx841
+                    [esID] => te:comtrade:usaabwxx841
+                    [s] => usaabwxx841:comtrade
+                    [importance] => 26
+                    [name] => United States Imports from Aruba of Machinery, nuclear reactors, boilers
+                    [type] => comtrade
+                    [group] => 
+                    [frequency] => Annual
+                    [unit] => 
+                    [pretty_name] => United States Imports from Aruba of Machinery, nuclear reactors, boilers
+                    [url] => /united-states/imports/aruba/nuclear-reactors-boilers-machinery
+                )
+
+            [38] => Array
+                (
+                    [country] => 
+                    [category] => Imports
+                    [currency] => USD
+                    [iids] => te:comtrade:usaabwxx851
+                    [esID] => te:comtrade:usaabwxx851
+                    [s] => usaabwxx851:comtrade
+                    [importance] => 26
+                    [name] => United States Imports from Aruba of Electrical, electronic equipment
+                    [type] => comtrade
+                    [group] => 
+                    [frequency] => Annual
+                    [unit] => 
+                    [pretty_name] => United States Imports from Aruba of Electrical, electronic equipment
+                    [url] => /united-states/imports/aruba/electrical-electronic-equipment
+                )
+
+            [39] => Array
+                (
+                    [country] => 
+                    [category] => Imports
+                    [currency] => USD
+                    [iids] => te:comtrade:usaabwxx871
+                    [esID] => te:comtrade:usaabwxx871
+                    [s] => usaabwxx871:comtrade
+                    [importance] => 26
+                    [name] => United States Imports from Aruba of Vehicles other than railway, tramway
+                    [type] => comtrade
+                    [group] => 
+                    [frequency] => Annual
+                    [unit] => 
+                    [pretty_name] => United States Imports from Aruba of Vehicles other than railway, tramway
+                    [url] => /united-states/imports/aruba/vehicles-not-railway-tramway
+                )
+
+            [40] => Array
+                (
+                    [country] => 
+                    [category] => Imports
+                    [currency] => USD
+                    [iids] => te:comtrade:usaabwxx901
+                    [esID] => te:comtrade:usaabwxx901
+                    [s] => usaabwxx901:comtrade
+                    [importance] => 26
+                    [name] => United States Imports from Aruba of Optical, photo, technical, medical apparatus
+                    [type] => comtrade
+                    [group] => 
+                    [frequency] => Annual
+                    [unit] => 
+                    [pretty_name] => United States Imports from Aruba of Optical, photo, technical, medical apparatus
+                    [url] => /united-states/imports/aruba/optical-photo-technical-medical-apparatus
+                )
+
+            [41] => Array
+                (
+                    [country] => 
+                    [category] => Exports
+                    [currency] => USD
+                    [iids] => te:comtrade:usaabwxx942
+                    [esID] => te:comtrade:usaabwxx942
+                    [s] => usaabwxx942:comtrade
+                    [importance] => 26
+                    [name] => United States exports of furniture, lighting signs, prefabricated buildings to Aruba
+                    [type] => comtrade
+                    [group] => 
+                    [frequency] => Annual
+                    [unit] => 
+                    [pretty_name] => United States exports of furniture, lighting signs, prefabricated buildings to Aruba
+                    [url] => /united-states/exports/aruba/furniture-lighting-signs-prefabricated-buildings
+                )
+
+            [42] => Array
+                (
+                    [country] => 
+                    [category] => Exports
+                    [currency] => USD
+                    [iids] => te:comtrade:usaabwxx962
+                    [esID] => te:comtrade:usaabwxx962
+                    [s] => usaabwxx962:comtrade
+                    [importance] => 26
+                    [name] => United States exports of miscellanneous manufactured articles to Aruba
+                    [type] => comtrade
+                    [group] => 
+                    [frequency] => Annual
+                    [unit] => 
+                    [pretty_name] => United States exports of miscellanneous manufactured articles to Aruba
+                    [url] => /united-states/exports/aruba/miscellaneous-manufactured-articles
+                )
+
+            [43] => Array
+                (
+                    [country] => 
+                    [category] => Imports
+                    [currency] => USD
+                    [iids] => te:comtrade:usaabwxx991
+                    [esID] => te:comtrade:usaabwxx991
+                    [s] => usaabwxx991:comtrade
+                    [importance] => 26
+                    [name] => United States Imports from Aruba of Commodities not specified according to kind
+                    [type] => comtrade
+                    [group] => 
+                    [frequency] => Annual
+                    [unit] => 
+                    [pretty_name] => United States Imports from Aruba of Commodities not specified according to kind
+                    [url] => /united-states/imports/aruba/commodities-not-specified-according-to-kind
+                )
+
+            [44] => Array
+                (
+                    [country] => 
+                    [category] => Imports
+                    [currency] => USD
+                    [iids] => te:comtrade:usaabwxx011
+                    [esID] => te:comtrade:usaabwxx011
+                    [s] => usaabwxx011:comtrade
+                    [importance] => 26
+                    [name] => United States Imports from Aruba of Live animals
+                    [type] => comtrade
+                    [group] => 
+                    [frequency] => Annual
+                    [unit] => 
+                    [pretty_name] => United States Imports from Aruba of Live animals
+                    [url] => /united-states/imports/aruba/live-animals
+                )
+
+            [45] => Array
+                (
+                    [country] => 
+                    [category] => Exports
+                    [currency] => USD
+                    [iids] => te:comtrade:usaabwxx012
+                    [esID] => te:comtrade:usaabwxx012
+                    [s] => usaabwxx012:comtrade
+                    [importance] => 26
+                    [name] => United States exports of live animals to Aruba
+                    [type] => comtrade
+                    [group] => 
+                    [frequency] => Annual
+                    [unit] => 
+                    [pretty_name] => United States exports of live animals to Aruba
+                    [url] => /united-states/exports/aruba/live-animals
+                )
+
+            [46] => Array
+                (
+                    [country] => 
+                    [category] => Exports
+                    [currency] => USD
+                    [iids] => te:comtrade:usaabwxx062
+                    [esID] => te:comtrade:usaabwxx062
+                    [s] => usaabwxx062:comtrade
+                    [importance] => 26
+                    [name] => United States exports of live trees, plants, bulbs, roots, cut flowers to Aruba
+                    [type] => comtrade
+                    [group] => 
+                    [frequency] => Annual
+                    [unit] => 
+                    [pretty_name] => United States exports of live trees, plants, bulbs, roots, cut flowers to Aruba
+                    [url] => /united-states/exports/aruba/live-trees-plants-bulbs-roots-cut-flowers
+                )
+
+            [47] => Array
+                (
+                    [country] => 
+                    [category] => Exports
+                    [currency] => USD
+                    [iids] => te:comtrade:usaabwxx082
+                    [esID] => te:comtrade:usaabwxx082
+                    [s] => usaabwxx082:comtrade
+                    [importance] => 26
+                    [name] => United States exports of edible fruits, nuts, peel of citrus fruit, melons to Aruba
+                    [type] => comtrade
+                    [group] => 
+                    [frequency] => Annual
+                    [unit] => 
+                    [pretty_name] => United States exports of edible fruits, nuts, peel of citrus fruit, melons to Aruba
+                    [url] => /united-states/exports/aruba/edible-fruits-nuts-peel-citrus-fruit-melons
+                )
+
+            [48] => Array
+                (
+                    [country] => 
+                    [category] => Exports
+                    [currency] => USD
+                    [iids] => te:comtrade:usaabwxx112
+                    [esID] => te:comtrade:usaabwxx112
+                    [s] => usaabwxx112:comtrade
+                    [importance] => 26
+                    [name] => United States exports of milling products, malt, starches, inlin, wheat gluten to Aruba
+                    [type] => comtrade
+                    [group] => 
+                    [frequency] => Annual
+                    [unit] => 
+                    [pretty_name] => United States exports of milling products, malt, starches, inlin, wheat gluten to Aruba
+                    [url] => /united-states/exports/aruba/products-milling-industry-malt-starches-inulin-wheat-gluten
+                )
+
+            [49] => Array
+                (
+                    [country] => 
+                    [category] => Imports
+                    [currency] => USD
+                    [iids] => te:comtrade:usaabwxx121
+                    [esID] => te:comtrade:usaabwxx121
+                    [s] => usaabwxx121:comtrade
+                    [importance] => 26
+                    [name] => United States Imports from Aruba of Oil seed, oleagic fruits, grain, seed, fruits
+                    [type] => comtrade
+                    [group] => 
+                    [frequency] => Annual
+                    [unit] => 
+                    [pretty_name] => United States Imports from Aruba of Oil seed, oleagic fruits, grain, seed, fruits
+                    [url] => /united-states/imports/aruba/oil-seed-oleagic-fruits-grain-seed-fruit
+                )
+
+        )
+
+    [stance] => 2
+)
